@@ -1,0 +1,11 @@
+.nav-link{
+    display: inline-block;
+    position: relative;
+    padding: 5px 20px;
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: none !important;
+}
